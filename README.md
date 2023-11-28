@@ -1,6 +1,6 @@
 # Documentação de Testes - Classe CadastroTest 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Teste JUnit para o Salvamento dos dados do usuário.
+## Teste JUnit para a Integridade do Processo de Salvamento de Dados do Usuário.
 
 O propósito deste teste é assegurar a correta funcionalidade do processo de armazenamento de cada informação no banco de dados. Isso envolve a verificação da precisão no salvamento das informações fornecidas pelo usuário, avaliando se os dados foram registrados com sucesso ou não. O resultado do teste será apresentado em termos percentuais, indicando a taxa de sucesso, juntamente com uma descrição do método utilizado.O objetivo deste teste é garantir a funcionalidade correta do processo de salvamento de cada informação no banco de dados. Verificando se as informações cadastradas que o usuário nos informou deram certas ou não. Mostrando a % e o método feito.
 
